@@ -1,0 +1,24 @@
+.Notifications {
+  border: 2px dashed #e1354b;
+	padding: 1rem;
+	width: 30%;
+	float: right;
+}
+
+ul li[data-notification-type='default'] {
+  color: blue;
+}
+
+ul li[data-notification-type='urgent'] {
+  color: red;
+}
+
+.close-b {
+  position: absolute;
+  top: 40px;
+  right: 20px;
+}
+
+.menuItem {
+  text-align: end;
+}

@@ -1,0 +1,22 @@
+.App-body {
+  padding-bottom: 275px;
+  text-align: left;
+  border-bottom: 3px solid;
+  border-color: #d73953;
+}
+
+.App-body p {
+  margin-top: 50px;
+  margin-left: 30px;
+}
+
+.App-body button {
+  text-align: center;
+  height: 22px;
+  width: 30px;
+}
+
+.login {
+  margin-top: 30px;
+  margin-left: 30px;
+}

@@ -1,0 +1,16 @@
+.App-logo {
+  height: 30vmin;
+}
+
+.App-header {
+  display: flex;
+  text-align: center;
+  background-color: #ffffff;
+  color: #d73953;
+  border-bottom: 3px solid;
+  border-color: #d73953;
+}
+
+.App-header h1 {
+  margin-top: 70px;
+}
